@@ -1,8 +1,8 @@
 # Mansi Ganga Nayak — Workstation Portfolio
 
-An interactive, single-page portfolio for **Mansi Ganga Nayak** — cybersecurity MS student at Arizona State University (grad. May 2027), focused on incident response, digital forensics and cloud security.
+An interactive, single-page portfolio for **Mansi Ganga Nayak** — cybersecurity MS student at Arizona State University (expected graduation December 2027), building software and investigating security across cloud engineering, digital forensics, AI research, and interactive applications.
 
-**Live site:** _enable GitHub Pages (Settings → Pages → Deploy from branch → `main` / root)_
+**Live site:** https://mansi200304.github.io/mansi-s_portfolio/
 
 ## What's inside
 - An "analyst's desktop" with a frosted landing and eye-tracking portrait
